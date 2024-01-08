@@ -1,0 +1,65 @@
+/* common shared styles */
+
+/* header styles */
+.welcome {
+  background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
+    url("../resources/Banner Image.png");
+  width: 1320px;
+  height: 600px;
+  border-radius: 16px;
+  background: linear-gradient(180deg, #070211 0%);
+  background-repeat: no-repeat;
+  margin: 50px auto;
+}
+.titles {
+  font-family: "Merriweather", serif;
+  color: white;
+  text-align: center;
+  padding: 160px 344px 177px 344px;
+}
+.happy {
+  color: #fff;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 400;
+  margin-bottom: 0px;
+}
+.banner-title {
+  color: #fff;
+  text-align: center;
+  font-size: 72px;
+  font-weight: 900;
+  margin-top: 10px;
+}
+/* offer section styles */
+.offer {
+  font-family: "Inter", sans-serif;
+  margin: 120px auto 0px;
+  text-align: center;
+}
+.main-offer {
+  color: #f00;
+  font-size: 88px;
+  font-weight: 700;
+  margin-bottom: 48px;
+}
+.sub-title {
+  color: #f00;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+.category {
+  color: #070211;
+  font-size: 48px;
+  font-weight: 700;
+  margin-top: 20px;
+}
+.new-year-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 48px;
+  width: 802.9px;
+  height: 500px;
+}
