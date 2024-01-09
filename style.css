@@ -274,3 +274,120 @@ p.sale-description {
   height: 206.841px;
   transform: rotate(-15.212deg);
 }
+/* portfolio section styles */
+.portfolio-section {
+  background: #fff;
+  border-radius: 16px;
+  text-align: center;
+  margin-bottom: 120px;
+}
+.gift-content {
+  text-align: left;
+  margin-top: 178px;
+  margin-left: 280px;
+}
+.gifts {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 0px;
+}
+.awesome-portfolio {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 36px;
+  font-weight: 900;
+  text-transform: capitalize;
+  margin-top: 16px;
+  margin-bottom: 0px;
+}
+.portfolio-description {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  width: 896px;
+  margin-top: 22px;
+  margin-bottom: 48px;
+}
+.gift-image-one > .yellow-bag,
+.black-bag,
+.red-hill {
+  width: 424px;
+  height: 450px;
+  padding: 12px;
+}
+.gift-image-two > .ash-hill,
+.white-glass,
+.beauty-product {
+  width: 424px;
+  height: 450px;
+  padding: 12px;
+}
+/* newsletter section styles */
+.subscribe-newsletter {
+  text-align: center;
+  border-radius: 16px;
+  background: rgba(255, 0, 0, 0.05);
+  width: 1320px;
+  height: 616px;
+  margin: 0 auto;
+}
+.newsletter-img {
+  width: 150px;
+  height: 150px;
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+.subscribe {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 900;
+  text-transform: capitalize;
+  margin-top: 0px;
+  margin-bottom: 22px;
+}
+.newsletter-desc {
+  margin-top: 0px;
+  margin-bottom: 48px;
+  color: rgba(7, 2, 17, 0.6);
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+}
+.form {
+  padding-bottom: 80px;
+}
+.email {
+  border-radius: 50px 0px 0px 50px;
+  background: #fff;
+  border: none;
+  padding: 25px 70px 25px 30px;
+  color: rgba(7, 2, 17, 0.3);
+  text-align: center;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  margin: 0px;
+}
+.subscribe-btn {
+  text-decoration: none;
+  border: none;
+  border-radius: 0px 50px 50px 0px;
+  background: #f00;
+  padding: 24px 56px;
+  color: #fff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: capitalize;
+  margin-left: 0px;
+}
+/* footer section styles */
