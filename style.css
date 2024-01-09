@@ -1,5 +1,3 @@
-/* common shared styles */
-
 /* header styles */
 .welcome {
   background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
@@ -256,24 +254,6 @@ p.sale-description {
   width: 1068px;
   margin: 0 auto;
 }
-.discount-images {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.happy-woman {
-  width: 429px;
-  height: 433px;
-}
-.perfetti {
-  width: 429px;
-  height: 433px;
-}
-.fifty-discount {
-  width: 206.841px;
-  height: 206.841px;
-  transform: rotate(-15.212deg);
-}
 /* portfolio section styles */
 .portfolio-section {
   background: #fff;
@@ -391,3 +371,52 @@ p.sale-description {
   margin-left: 0px;
 }
 /* footer section styles */
+.footer {
+  display: flex;
+  background: #000;
+  color: #fff;
+  justify-content: space-between;
+  margin-top: 120px;
+}
+.facebook,
+.instagram,
+.twitter,
+.linkedin {
+  padding: 0px 12px;
+}
+.footer-left,
+.footer-icons,
+.footer-right {
+  margin: 120px;
+}
+.footer-icons {
+  margin-top: 298px;
+}
+.footer-left,
+.footer-right {
+  color: #fff;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 40px;
+}
+.address {
+  margin-bottom: 260px;
+}
+.unsubscribe {
+  margin-top: 260px;
+  margin-left: 140px;
+  color: #fff;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  background: transparent;
+  border: none;
+}
+.telephone,
+.website {
+  margin: 16px;
+}
+.footer-right {
+  margin-top: 120px;
+}
