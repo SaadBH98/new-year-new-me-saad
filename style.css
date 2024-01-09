@@ -403,6 +403,9 @@ p.sale-description {
 .address {
   margin-bottom: 260px;
 }
+.copyright{
+  text-transform: capitalize;
+}
 .unsubscribe {
   margin-top: 260px;
   margin-left: 140px;
